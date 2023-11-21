@@ -6,8 +6,9 @@
 
 ## My wishes
  - [ ] Get a master's degrees
- - [ ] Get a doctorate
  - [ ] Have a try on the TOEIC test
+ - [ ] Get a doctorate
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahiro2211&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahiro2211&theme=default&hide_border=false)<br/>
