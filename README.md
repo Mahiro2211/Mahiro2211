@@ -3,7 +3,8 @@
 * I am new to the field of deep learning and have been learning it for the past 8 months.🙏
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
-![image](https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0#pic_center)
+
+<img src="[path/to/image.jpg](https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0#pic_center)" alt="Image" width="300">
 
 ## My wishes
 
