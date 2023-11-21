@@ -4,7 +4,7 @@
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
-<img src="https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0" alt="Image" style="width:300px;height:200px;">
+<img src="https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0" alt="Image" style="width:100px;height:100px;">
 
 ## My wishes
 
