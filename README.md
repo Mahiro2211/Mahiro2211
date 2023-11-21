@@ -4,11 +4,12 @@
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hasanyalsiz&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasanyalsz&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyalsiz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="display: flex;">
-    <img src="https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0" alt="Image 1" style="width: 100px; height: auto;">
-    <img src=""D:\ChormeDownload\pytorch.svg"" alt="Image 3" style="width: 100px; height: auto;">
-</div>
+
 ## My wishes
 
  - [ ] Get a master's degrees
