@@ -5,9 +5,9 @@
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasanyalsiz&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasanyalsz&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyalsiz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mahiro2211&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahiro2211&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiro2211&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## My wishes
