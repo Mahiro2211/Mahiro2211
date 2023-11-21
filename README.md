@@ -5,6 +5,7 @@
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
 <img src="https://github.com/Mahiro2211/Mahiro2211/assets/130811701/c7753ba7-12f9-4f0e-aa1b-26fe6b6c90a0" alt="Image" style="width:100px;height:100px;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94789%2Fpytorch&psig=AOvVaw3zm6uErH_PikmD0jN4EWha&ust=1700655887417000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC647WL1YIDFQAAAAAdAAAAABAE" alt="Image" style="width:100px;height:100px;">
 
 ## My wishes
 
