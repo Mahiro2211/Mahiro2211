@@ -4,10 +4,24 @@
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
-## My wishes
+## My wishes in long term
  - [ ] Get a master's degrees
  - [ ] Have a try on the TOEIC test
  - [ ] Get a doctorate
+
+## My wishes in 2024
+ - [ ] learning cpp more deeply 
+ - [ ] learning flutter and finish a data visualization project
+ - [ ] write 2 blog for each week ( Except Exam Week )
+ - [ ] learning computer graphic
+ - [ ] learn tinyml from scratch
+ - [ ] parapare for few English test
+
+## What I have done in 2023
+* expose myself to Deeplearning
+* learning python which is useful glue language
+* the abality to read English paper
+* have a try in some thing new in github
 
 
 <h3 align="left">Languages and Tools:</h3>
