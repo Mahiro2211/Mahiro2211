@@ -20,7 +20,7 @@
 ## What I have done in 2023
 * expose myself to Deeplearning
 * learning python which is useful glue language
-* the abality to read English paper
+* the ability to read English paper
 * have a try in some thing new in github
 
 
