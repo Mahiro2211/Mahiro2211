@@ -4,6 +4,9 @@
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
 * I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
 
+> FOR FREEDOM Cheers~🍺🍺🍺🍺🍺
+
+
 ## My wishes in long term
  - [ ] Get a master's degrees
  - [ ] Have a try on the TOEIC test
