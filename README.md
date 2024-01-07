@@ -42,7 +42,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahiro2211&theme=dark&hide_border=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mahiro2211)](https://git.io/streak-stats)<br/>
+
 
 
 
