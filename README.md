@@ -13,10 +13,11 @@
  - [ ] Get a doctorate
 
 ## My wishes in 2024
- - [ ] learning cpp more deeply 
+ - [ ] learning cpp more deeply
+ - [ ] learning Java
  - [ ] learning flutter and finish a data visualization project
  - [ ] write 2 blog for each week ( Except Exam Week )
- - [ ] learning computer graphic
+ - [ ] learning computer graphic ( WEBGL or WEBGPU )
  - [ ] learn tinyml from scratch
  - [ ] parapare for few English test
 
