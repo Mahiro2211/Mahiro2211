@@ -1,5 +1,5 @@
 # About Me😊
-* I am aiming to be a product manager / full stack developer
+* I am aiming to be a product manager / full-stack developer
 * Recently, I started learning the second edition of "统计学习方法" and plan to upload the source code as I progress.✊
 * I am new to the field of deep learning and have been learning it for the past 8 months.🙏
 * I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
