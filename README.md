@@ -1,11 +1,9 @@
 # About Me😊
 * I am aiming to be a product manager / full-stack developer
-* Recently, I started learning the second edition of "统计学习方法" and plan to upload the source code as I progress.✊
-* I am new to the field of deep learning and have been learning it for the past 8 months.🙏
-* I have some experience with Python and C++, and I am looking forward to further developing my skills in these languages.💪
-* I am highly motivated and passionate about learning and exploring new things. I am always curious and eager to expand my knowledge and skills.
+* Recently, I have been learning PHP and JavaScript
 
-> The Paragdim for programming really matters 
+
+> The Paragdim for programming matters 
 
 
 ## My wishes in the long term
@@ -17,16 +15,15 @@
  - [ ] learning cpp more deeply
  - [ ] learning Java
  - [ ] learning flutter and finishing a data visualization project
- - [ ] Write 2 blog for each week ( Except Exam Week )
+ - [ ] Write 2 blogs for each week ( Except Exam Week )
  - [ ] learning computer graphics ( WEBGL or WEBGPU )
- - [ ] learn tinyML from scratch
- - [ ] prepare for few English test
+ - [ ] prepare for a few English test
 
 ## What I have done in 2023
-* expose myself to Deep learning
+* expose me to Deep learning
 * Learning Python which is a useful glue language
 * the ability to read English paper
-* have a try in something new in GitHub
+* have a try at something new in GitHub
 
 
 <h3 align="left">Languages and Tools:</h3>
