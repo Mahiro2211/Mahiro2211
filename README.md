@@ -3,8 +3,8 @@
 * Recently, I have been learning PHP and JavaScript
 
 
-> The Paragdim for programming matters 
-
+> The Paragdim for programming matters
+> Writing code can benefit one but sometimes can't make one's fortune - "Writing code can be beneficial, but it may not always lead to financial success."
 
 ## My wishes in the long term
  - [ ] Get a master's degrees
