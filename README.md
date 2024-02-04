@@ -12,7 +12,6 @@
  - [ ] Get a doctorate
 
 ## My wishes in 2024
- - [ ] learning cpp more deeply
  - [ ] learning Java
  - [ ] learning flutter and finishing a data visualization project
  - [ ] Write 2 blogs for each week ( Except Exam Week )
