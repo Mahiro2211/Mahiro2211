@@ -1,9 +1,6 @@
 # About Me😊
-<strong>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript.<strong/>
 
-
-> The Paragdim for programming matters <br/>
-> Writing code can benefit one but sometimes can't make one's fortune - "Writing code can be beneficial, but it may not always lead to financial success."
+<strong font-size=16>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript.<strong/>
 
 ## My wishes in the long term
  - [x] Doing My favorate thing
