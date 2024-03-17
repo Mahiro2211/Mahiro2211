@@ -1,19 +1,18 @@
 # About Me😊
-* I am aiming to be a product manager / full-stack developer
-* Recently, I have been learning PHP and JavaScript
+<strong>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript.<strong/>
 
 
 > The Paragdim for programming matters <br/>
 > Writing code can benefit one but sometimes can't make one's fortune - "Writing code can be beneficial, but it may not always lead to financial success."
 
 ## My wishes in the long term
+ - [x] Doing My favorate thing
  - [ ] Get a master's degrees
  - [ ] Have a try on the TOEIC test
  - [ ] Get a doctorate
 
 ## My wishes in 2024
- - [ ] learning Java
- - [ ] learning flutter and finishing a data visualization project
+ - [ ] do CS61C and few opencourse lab
  - [ ] Write 2 blogs for each week ( Except Exam Week )
  - [ ] learning computer graphics ( WEBGL or WEBGPU )
  - [ ] prepare for a few English test
