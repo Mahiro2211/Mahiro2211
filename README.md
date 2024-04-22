@@ -11,6 +11,8 @@
 ## My wishes in 2024
  - [ ] do CS61C and few opencourse lab
  - [ ] Write 2 blogs for each week ( Except Exam Week )
+ - [ ] learn data visualization
+ - [ ] sharpen skill in tensorflow and pytorch
  - [ ] learning computer graphics ( WEBGL or WEBGPU )
  - [ ] prepare for a few English test
 
