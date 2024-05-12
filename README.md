@@ -13,7 +13,7 @@
  - [ ] Write 2 blogs for each week ( Except Exam Week )
  - [ ] learn data visualization
  - [ ] sharpen skill in tensorflow and pytorch
- - [ ] learning computer graphics ( WEBGL or WEBGPU )
+ - [ ] sharpen my skill in python and java and javascript
  - [ ] prepare for a few English test
 
 ## What I have done in 2023
