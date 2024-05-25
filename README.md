@@ -1,12 +1,6 @@
 # About Me😊
 
-<strong font-size=16>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript.<strong/>
-
-## My wishes in the long term
- - [x] Doing My favorate thing
- - [ ] Get a master's degrees
- - [ ] Have a try on the TOEIC test
- - [ ] Get a doctorate
+<strong font-size=16>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript for a further application.<strong/>
 
 ## My wishes in 2024
  - [ ] do CS61C and few opencourse lab
