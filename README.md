@@ -1,6 +1,8 @@
 # About Me😊
 
-<strong font-size=16>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript for a further application.<strong/>
+<strong font-size=16>I am passionate about machine learning and deep learning. I am currently learning C++, Python, and JavaScript.<strong/>
+
+**I am contactable via dj4569103@gmail.com**
 
 ## My wishes in 2024
  - [ ] do CS61C and few opencourse lab
@@ -11,10 +13,10 @@
  - [ ] prepare for a few English test
 
 ## What I have done in 2023
-* expose me to Deep learning
+* Know a little bit about deep learning
 * Learning Python which is a useful glue language
-* the ability to read English paper
-* have a try at something new in GitHub
+* Could read some English material
+* Write simple script by specific task
 
 
 <h3 align="left">Languages and Tools:</h3>
