@@ -1,6 +1,6 @@
 # About Me😊
 
-<strong font-size=16>I am passionate about data science and computer vision. I am currently learning Python, and JavaScript.<strong/>
+I am currently learning Python, and JavaScript.<strong/>
 
 **I am contactable via dj4569103@gmail.com**
 
