@@ -8,8 +8,8 @@ I am currently learning Python, and JavaScript.<strong/>
 * Python
 * JavaScript
 
-## Things make me excited
-Create! Coding! Curiosity!
+#Create! Coding! Curiosity!
+
 # Link
 ## [CSDN](https://blog.csdn.net/douhuanmin123?spm=1055.2569.3001.5343)
 
