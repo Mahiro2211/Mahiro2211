@@ -8,9 +8,5 @@ I am currently learning Python, and JavaScript.<strong/>
 * Python
 * JavaScript
 
-#Create! Coding! Curiosity!
-
-# Link
-## [CSDN](https://blog.csdn.net/douhuanmin123?spm=1055.2569.3001.5343)
-
+# Create! Coding! Curiosity!
 
