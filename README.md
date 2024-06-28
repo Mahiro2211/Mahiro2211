@@ -10,5 +10,5 @@ I am currently learning Python, and JavaScript.<strong/>
 
 # Create! Coding! Curiosity!
 
-2023.5-2024.6 Deep Learning on Computer Vision
+2023.5-2024.6 Deep Learning on Computer Vision </br>
 2024.7-2025.2 Full stack Development
