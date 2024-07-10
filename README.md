@@ -10,6 +10,6 @@ I am currently learning Python, and JavaScript.<strong/>
 
 # Create, Coding, Curiosity.
 
-2022.6-2023.3 learn basics and make lots of mistake.
+2022.6-2023.3 Hanging around.
 2023.5-2024.6 Deep Learning on Computer Vision </br>
 2024.7-now Full-stack Development
