@@ -8,7 +8,7 @@ I am currently learning Python, and JavaScript.<strong/>
 * Python
 * JavaScript
 
-# Create! Coding! Curiosity!
+# Create, Coding, Curiosity.
 
 2023.5-2024.6 Deep Learning on Computer Vision </br>
 2024.7-now Full-stack Development
