@@ -1,12 +1,24 @@
 # About Me😊
 
-I am currently learning Python, and JavaScript.<strong/>
 
+## I am an independent developer, but still a novice in many things 
+* Game Development
+* Full stack developer
+* Web3
+
+## Tools 
+* Vue (I love this best) and Nuxt.js
+* Flask
+* Node.js, Express
+* Tuanjie Engine (Unity)
+
+  
 **I am contactable via dj4569103@gmail.com**
 
 ## I am familiar with ("Happy with Scripting Language!"😊):
 * Python
 * JavaScript
+* C Sharp
 
 # Create, Coding, Curiosity.
 
