@@ -15,10 +15,11 @@
   
 **I am contactable via dj4569103@gmail.com**
 
-## I am familiar with ("Happy with Scripting Language!"😊):
+## I Love
 * Python
 * JavaScript
 * C Sharp
+* PHP
 
 # Create, Coding, Curiosity.
 
