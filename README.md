@@ -9,4 +9,4 @@
 
 大三学年开始我的精力都将放在备考研究生考试。
 
-## 我喜欢把学习到的东西整理成博客，之前的博客全部都放到了csdn上了：[Link](https://blog.csdn.net/douhuanmin123)
+## 我喜欢把学习到的东西整理成博客，之前的博客全部都放到了csdn上了：[链接直达](https://blog.csdn.net/douhuanmin123)
