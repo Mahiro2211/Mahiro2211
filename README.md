@@ -14,3 +14,20 @@
 >Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
 >EMail:dj4569103@gmail.com<br>
 >WeChat:YUTT6678<br>
+
+## Personal profile
+I am an undergraduate student majoring in computer science in Shandong. I like to use python and javascript to build projects.
+<br>
+I learned Python (understanding the advanced features of Python) and did some scientific research training related to deep learning in my freshman and sophomore years (mainly image retrieval related tasks in computer vision)
+## What I know
+* Ability to independently write dataset loading scripts and try to improve the efficiency of each task.
+* Ability to migrate related algorithms in other fields such as metric learning to other directions to verify whether they can improve performance.
+* Ability to quickly get started with a new framework and technology by consulting relevant technical documents
+
+## Contact
+
+## Visit my personal blog website: [ClickMe](https://mahiro2211.github.io)
+
+>Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
+>EMail:dj4569103@gmail.com<br>
+>WeChat:YUTT6678<br>
