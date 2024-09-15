@@ -15,6 +15,8 @@
 >EMail:dj4569103@gmail.com<br>
 >WeChat:YUTT6678<br>
 
+<hr>
+
 ## Personal profile
 I am an undergraduate student majoring in computer science in Shandong. I like to use python and javascript to build projects.
 <br>
