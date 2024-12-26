@@ -8,8 +8,8 @@
 ## 访问我的个人博客网站: [ClickMe](https://mahiro2211.github.io)
 
 >Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
->EMail:dj4569103@gmail.com<br>
->WeChat:YUTT6678<br>
+>Email:dj4569103@gmail.com<br>
+>微信:YUTT6678<br>
 <h3 align="center">A passionate programmer from China</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahiro2211" alt="mahiro2211" /></a> </p>
