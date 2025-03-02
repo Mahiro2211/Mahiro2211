@@ -5,6 +5,13 @@
 ## 我会的东西
 会Python处理数据，写一些简单的深度学习代码
 
+## 备考完之后的目标
+A. 在两张 2080Ti 上实现和比较不同的流水算法的性能；
+B. 用 Triton 自己实现过一些算子；
+C. 能讲出不同的大模型使用的 tokenizer 的差异；
+D. 在 Python 以外的语言上有不错的开发能力 (Rust and C++)
+E. 实现一个效果拔群的五子棋 AI（最好是 RL 算法）
+
 ## 访问我的个人博客网站: [ClickMe](https://mahiro2211.github.io)
 
 >Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
