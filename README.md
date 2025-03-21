@@ -1,3 +1,4 @@
+> You are more than what you have become --- The Lion King
 ## 个人简介 
 在山东的一名计算机专业的本科生, 现在在备考研究生考试
 <br>
