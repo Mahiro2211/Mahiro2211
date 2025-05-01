@@ -17,8 +17,6 @@ D. 在 Python 以外的语言上有不错的开发能力 (Rust and C++)
 
 E. 实现一个效果拔群的五子棋 AI（最好是 RL 算法）
 
-## 访问我的个人博客网站: [ClickMe](https://mahiro2211.github.io)
-
 >Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
 >Email:dj4569103@gmail.com<br>
 
