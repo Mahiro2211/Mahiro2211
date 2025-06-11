@@ -1,24 +1,5 @@
-> You are more than what you have become --- The Lion King
-## 个人简介 
-在山东的一名计算机专业的本科生, 现在在备考研究生考试
-<br>
-我在大一和大二两个学年中学习了Python(了解一些Python的高级特性)并且做了一些深度学习相关的科研训练(主要是计算机视觉中的图像检索相关的任务)
-## 我会的东西
-会Python处理数据，写一些简单的深度学习代码
-
-## 备考完之后的目标
-A. 在两张 2080Ti 上实现和比较不同的流水算法的性能；
-
-B. 用 Triton 自己实现一些算子；
-
-C. 能讲出不同的大模型使用的 tokenizer 的差异；
-
-D. 在 Python 以外的语言上有不错的开发能力 (Rust and C++)
-
-E. 实现一个效果拔群的五子棋 AI（最好是 RL 算法）
-
 >Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
->Email:dj4569103@gmail.com<br>
+>Email:dhm6421@163.com<br>
 
 <h3 align="center">A passionate programmer from China</h3>
 
