@@ -1,4 +1,3 @@
->Github:[Mahiro2211](https://github.com/Mahiro2211)<br>
 >Email:dhm6421@163.com<br>
 
 <h3 align="center">A passionate programmer from China</h3>
