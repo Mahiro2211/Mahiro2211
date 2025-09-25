@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate programmer from China</h3>
 
-I have an interest in Deep Learning, Full Stack Development.
+I have an interest in Deep Learning and Full Stack Development.
 <br>
 I am skilled in using python, dotnet and JavaScript (Node.js)
 
