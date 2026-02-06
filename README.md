@@ -1,5 +1,7 @@
 >Email:dhm6421@163.com<br>
 
+Deep Learning, Remote Sensing, Web Dev
+
 ## 🐱‍💻[My Neovim Configuration](https://github.com/Mahiro2211/mahiro_nvim_config)
 
 <h3 align="left">Languages and Tools:</h3> 
