@@ -1,6 +1,6 @@
 >Email:dhm6421@163.com<br>
 
-I am currently learning C++ and Rust.
+Neovim爱好者，正在学习C++和Rust
 
 ## 🐱‍💻[My Neovim Configuration](https://github.com/Mahiro2211/mahiro_nvim_config)
 
