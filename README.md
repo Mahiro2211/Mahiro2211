@@ -1,6 +1,6 @@
 >Email:dhm6421@163.com<br>
 
-Neovim爱好者，正在学习C++和Rust
+#### Learning C++ and Python
 
 ## 🐱‍💻[My Neovim Configuration](https://github.com/Mahiro2211/mahiro_nvim_config)
 
