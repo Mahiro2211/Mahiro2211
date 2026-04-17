@@ -1,6 +1,6 @@
 >Email:dhm6421@163.com<br>
 
-#### Learning C++ and Python
+I am currently learning Web3. 
 
 ## 🐱‍💻[My Neovim Configuration](https://github.com/Mahiro2211/mahiro_nvim_config)
 
