@@ -1,10 +1,29 @@
->Email:dhm6421@163.com<br>
+# Hi there, I'm MuraSakee 👋
 
-I am currently learning Web3. 
-My mainly intrest now is in Rust programming
+🎓 **M.Eng. in Software Engineering** @ Xi'an University of Posts and Telecommunications (XUPT)
 
-## 🐱‍💻[My Neovim Configuration](https://github.com/Mahiro2211/mahiro_nvim_config)
-## 😊JetBrains: [My IDEAVIM CONFIG](https://github.com/Mahiro2211/.ideavim)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Rust+Enthusiast;Python+Developer;Graduate+Student;Always+Learning+Something+New)
 
-<h3 align="left">Languages and Tools:</h3> 
-Python && Rust
+### 🛠️ Tech Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧑‍💻 About Me
+- 🏫 I'm a Master's student in Software Engineering at **XUPT** (Xi'an University of Posts and Telecommunications).
+- 🦀 Currently exploring deep into **Rust** for Web3 development and high-performance applications.
+- 🐍 Proficient in using **Python** for backend development, data processing, and scripting.
+- 💬 Ask me about Rust, Python, or Software Architecture.
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiro2211&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiro2211&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="mailto:dhm6421@163.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://X.com/WongS92822"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
