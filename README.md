@@ -12,7 +12,6 @@
 - 🏫 I'm a Master's student in Software Engineering at **XUPT** (Xi'an University of Posts and Telecommunications).
 - 🦀 Currently exploring deep into **Rust** for Web3 development and high-performance applications.
 - 🐍 Proficient in using **Python** for backend development, data processing, and scripting.
-- 💬 Ask me about Rust, Python, or Software Architecture.
 
 ### 📊 My GitHub Stats
 <p align="center">
