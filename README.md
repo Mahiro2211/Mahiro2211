@@ -1,5 +1,7 @@
 
 🎓 **M.Eng. in Software Engineering** @ Xi'an University of Posts and Telecommunications (XUPT)
+🎓 **Bachelor. in Computer Science** @ Weifang University
+
 
 ### 🤝 Connect with me
 <p align="center">
